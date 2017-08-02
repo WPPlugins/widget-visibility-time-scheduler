@@ -1,0 +1,19 @@
+div.wvts-collapsed .wvts-scheduler {
+	display: none;
+}
+div.wvts-expanded .wvts-scheduler {
+	display: block;
+}
+div.wvts-scheduler p {
+	margin-top: 0;
+}
+div.wvts-scheduler fieldset legend {
+	padding: 0;
+	font-weight: bold;
+}
+.customize-control .wvts-scheduler input {
+	width: auto;
+}
+.customize-control .wvts-scheduler select {
+	min-width: 0;
+}
